@@ -1,7 +1,7 @@
 <p align="center">
   <strong style="font-size: 40px;">🏦 Bank Churn Prediction</strong><br>
   <em>Binary Classification with a Bank Churn Dataset</em><br><br>
-  <a href="https://github.com/Toshaksha/kaggle-competitions">
+  <a href="https://github.com/Toshaksha/kaggle_compeditions">
     <img src="https://img.shields.io/badge/Repo-Kaggle%20Competition-blue" alt="Repo Badge" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.8+-yellow" alt="Python Version" />
