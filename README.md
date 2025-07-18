@@ -1,7 +1,16 @@
-# 🏅 Kaggle Competitions Workspace
-
-Welcome to my repository for Kaggle competition solutions and notebooks!  
+<h2 align="center">🏅 Kaggle Competitions Workspace</h2>
+<p align="center">
+Welcome to my repository for Kaggle competition solutions and notebooks!<br>
 This space is dedicated to exploring machine learning techniques and solving real-world problems through Kaggle challenges.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Toshaksha/kaggle_compeditions/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
+  <a href="https://www.python.org/">
+    <img alt="Python Version" src="https://img.shields.io/badge/python-3.8%2B-blue" />
+</p>
 
 ---
 
